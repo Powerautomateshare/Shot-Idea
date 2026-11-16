@@ -1,0 +1,38 @@
+shot idea - Freeware Licence
+Copyright (c) 2026 Sorasit Moungon. All rights reserved.
+
+shot idea is free software in the sense of "free of charge" (freeware). It is not open-source.
+
+1. Free to use
+   You may download, install and use shot idea free of charge, at home or at work.
+   The screenshots, videos and other content you create with it belong to you.
+
+2. What you may not do
+   Without written permission from Sorasit Moungon, you may not:
+   a) sell, rent, lease or sublicense shot idea, or charge any fee for it or for access to it;
+   b) bundle it with a paid product or service;
+   c) copy, redistribute, re-publish or upload it to any store, website or download service;
+   d) modify, translate, decompile or reverse-engineer it, except where the law allows this
+      regardless of this licence;
+   e) remove or change the name, logo, copyright notice or this licence.
+
+3. Only the author may sell or distribute
+   Sorasit Moungon is the only person allowed to sell, distribute or publish shot idea,
+   including through the Microsoft Store. Official copies come only from the author.
+
+4. No warranty
+   shot idea is provided "as is", without any warranty of any kind. The author is not liable
+   for any damage or loss that comes from using it, to the extent the law allows.
+
+5. Third-party parts
+   shot idea uses components that keep their own licences: Windows App SDK (MIT),
+   ScreenRecorderLib (MIT), Tesseract for .NET (Apache 2.0), Tesseract language data
+   (Apache 2.0) and System.Drawing.Common (MIT). Those licences apply to those parts only.
+
+6. Name and logo
+   "shot idea" and its logo belong to Sorasit Moungon. This licence does not give you any right
+   to use them. How you may use them is explained in the brand guidelines (TRADEMARKS.md):
+   https://github.com/Powerautomateshare/Shot-Idea/blob/main/TRADEMARKS.md
+
+Questions or permission requests: use "Send feedback" in the app's About window, or open an issue at
+https://github.com/Powerautomateshare/Shot-Idea/issues
