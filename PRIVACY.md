@@ -36,7 +36,7 @@ shot idea is free. If optional purchases or donations are offered in the future,
 
 ## Feedback
 
-If you use "Send feedback" in the app, it opens your own email program. What you send, and your email address, are used only to reply to you and improve the app.
+"Send feedback" in the app opens a new issue on GitHub in your browser, with the app version and Windows version filled in. Nothing is sent until you post it yourself, and GitHub issues are public, so please don't include personal information.
 
 ## Children
 
