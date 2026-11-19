@@ -3,7 +3,7 @@
 **Your ideas, one app. Make your life easy.**
 
 shot idea is a free Windows app to capture your screen, mark it up, copy and translate text,
-record video and present live in meetings, all in one place. It runs on your PC: nothing is uploaded.
+record video and present live in meetings, all in one place. No account, no ads, no tracking: your files stay on your PC.
 
 ## What it does
 
@@ -17,7 +17,9 @@ record video and present live in meetings, all in one place. It runs on your PC:
 
 ## Get it
 
-shot idea will be available free on the Microsoft Store.
+- **Free on the Microsoft Store:** [apps.microsoft.com/detail/9NKGPL28BC30](https://apps.microsoft.com/detail/9NKGPL28BC30), or search "shot idea" in the Store app.
+- **User guide (PDF):** [shot-idea-user-guide.pdf](shot-idea-user-guide.pdf). How to use every feature, with samples.
+- **Privacy:** [privacy policy](PRIVACY.md).
 
 ## Licence and brand
 
@@ -26,4 +28,4 @@ shot idea will be available free on the Microsoft Store.
   for how you may use them.
 - Questions, ideas or permission requests: [open an issue](https://github.com/Powerautomateshare/Shot-Idea/issues).
 
-Made by **Sorasit Moungon (Joh)**.
+Made by **Sorasit Moungon (Joh)** · [LinkedIn](https://www.linkedin.com/in/sorasit-moungon-080831265)
